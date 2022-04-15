@@ -1,1 +1,3 @@
-./result/
+.idea
+./test.txt
+.gitignore
